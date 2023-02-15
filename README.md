@@ -10,7 +10,7 @@ I'm dedicated to improving my skills and creating high-quality games and applica
 ##
 
 ### 🤙 Contact Me
-<p><a href="https://www.linkedin.com/in/kasun-miuranga-419a001bb"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" style=" width:130px" /></a></p>
+<p><a href="https://www.linkedin.com/in/kasun-miuranga-419a001bb"><img alt="" src="https://raw.githubusercontent.com/TheMIU/themiu/main/linkedin-logo.png" style=" width:130px" /></a></p>
 
 ####
 
@@ -19,7 +19,7 @@ I'm dedicated to improving my skills and creating high-quality games and applica
 <p>
 <img align="left" alt="Java" width="20px" style="padding-right:10px;" src="https://www.svgrepo.com/show/184143/java.svg"/>
 <img align="left" alt="C#" width="20px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"/>
-<img align="left" alt="GitHub" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="GitHub" width="20px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/2048px-Github-desktop-logo-symbol.svg.png" />
 <img align="left" alt="InteliJ" width="20px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" />
 <img align="left" alt="SceneBuilder" width="20px" style="padding-right:10px;" src="https://i0.wp.com/gluonhq.com/wp-content/uploads/2015/02/SceneBuilderLogo.png?fit=781%2C781&ssl=1" />
 <img align="left" alt="Visual Studio" width="20px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/2060px-Visual_Studio_Icon_2019.svg.png"/>
