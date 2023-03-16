@@ -1,7 +1,7 @@
 ## 👋 Hi there!
 # I'm Kasun Miuranga 😀
 
-**`Programmer | Game Designer & Developer | Freelance Graphic Designer`**
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Engineer;Game+Designer;Game+Developer;Freelance+Graphic+Designer)](https://git.io/typing-svg)
 
 I'm a learner interested in game development using Unity and GDevelop, as well as Java programming. I'm passionate about creating engaging games and always learning new techniques. I welcome feedback and would love for you to play my games and share your thoughts.
 
