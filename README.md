@@ -23,6 +23,7 @@ I'm dedicated to improving my skills and creating high-quality games and applica
 <img align="left" alt="InteliJ" width="20px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" />
 <img align="left" alt="SceneBuilder" width="20px" style="padding-right:10px;" src="https://i0.wp.com/gluonhq.com/wp-content/uploads/2015/02/SceneBuilderLogo.png?fit=781%2C781&ssl=1" />
 <img align="left" alt="Visual Studio" width="20px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/2060px-Visual_Studio_Icon_2019.svg.png"/>
+<img align="left" alt="Godot" width="20px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg"/>
 <img align="left" alt="GDevelop" width="20px" style="padding-right:10px;" src="https://forum.gdevelop.io/uploads/default/original/1X/0344165e7f6a1db1adf720b2fdee28201a9079d3.png"/>
 <img align="left" alt="Unity" width="20px" style="padding-right:10px;" src="https://companieslogo.com/img/orig/U-ea48bc1d.png?t=1634728034"/>
 <img align="left" alt="Illustrator" width="20px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png" />
