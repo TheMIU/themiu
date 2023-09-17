@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Engineer;Game+Designer;Game+Developer;Freelance+Graphic+Designer)](https://git.io/typing-svg)
 
-I'm a learner interested in game development, as well as Java programming. I'm passionate about creating engaging games and always learning new techniques. I welcome feedback and would love for you to play my games and share your thoughts.
+I'm a learner interested in game development, as well as programming. I'm passionate about creating engaging games and always learning new techniques. I welcome feedback and would love for you to play my games and share your thoughts.
 
 I'm dedicated to improving my skills and creating high-quality games and applications, even though I'm still learning. Thank you for visiting my profile, and I look forward to connecting with you!
 
