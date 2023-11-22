@@ -47,7 +47,7 @@ I'm dedicated to improving my skills and creating high-quality games and applica
 
 ---
 <p>
-<a href="https://miusoft.itch.io/"><img  alt="" src="https://raw.githubusercontent.com/TheMIU/TheMiu/main/visitSiteBanner-01.png" style="height:auto; width:80%" /> </a>
+<a href="https://miusoft.itch.io/"><img  alt="" src="https://raw.githubusercontent.com/TheMIU/TheMiu/main/visitSiteBanner-01.png" style="height:auto; width:100%" /> </a>
 </p>
 
 <blockquote>
