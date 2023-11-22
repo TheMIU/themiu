@@ -10,7 +10,9 @@ I'm dedicated to improving my skills and creating high-quality games and applica
 ##
 
 ### 🤙 Contact Me
-<p><a href="https://www.linkedin.com/in/kasun-miuranga-419a001bb"><img alt="" src="https://raw.githubusercontent.com/TheMIU/themiu/main/linkedin-logo.png" style=" width:130px" /></a></p>
+<a href="https://www.linkedin.com/in/kasun-miuranga" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+</a>
 
 ####
 
@@ -45,7 +47,7 @@ I'm dedicated to improving my skills and creating high-quality games and applica
 
 ---
 <p>
-<a href="https://miusoft.itch.io/"><img  alt="" src="https://raw.githubusercontent.com/TheMIU/TheMiu/main/visitSiteBanner-01.png" style="height:200px; width:800px" /> </a>
+<a href="https://miusoft.itch.io/"><img  alt="" src="https://raw.githubusercontent.com/TheMIU/TheMiu/main/visitSiteBanner-01.png" style="height:auto; width:80%" /> </a>
 </p>
 
 <blockquote>
