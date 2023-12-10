@@ -20,17 +20,37 @@ I'm dedicated to improving my skills and creating high-quality games and applica
 
 <p>
 <img align="left" alt="Java" width="20px" style="padding-right:10px;" src="https://www.svgrepo.com/show/184143/java.svg"/>
+
+<img align="left" alt="JavaScript" width="20px" style="padding-right:10px;" src="https://www.svgrepo.com/show/349419/javascript.svg"/>
+
+<img align="left" alt="TypeScript" width="20px" style="padding-right:10px;" src="https://www.svgrepo.com/show/349540/typescript.svg"/>
+
+<img align="left" alt="React" width="20px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354259/react.svg"/>
+
 <img align="left" alt="C#" width="20px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"/>
+
 <img align="left" alt="GitHub" width="20px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/2048px-Github-desktop-logo-symbol.svg.png" />
+
+<img align="left" alt="VSCode" width="20px" style="padding-right:10px;" src="https://www.svgrepo.com/show/374171/vscode.svg" />
+
 <img align="left" alt="InteliJ" width="20px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" />
+
 <img align="left" alt="SceneBuilder" width="20px" style="padding-right:10px;" src="https://i0.wp.com/gluonhq.com/wp-content/uploads/2015/02/SceneBuilderLogo.png?fit=781%2C781&ssl=1" />
+
 <img align="left" alt="Visual Studio" width="20px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/2060px-Visual_Studio_Icon_2019.svg.png"/>
+
 <img align="left" alt="Godot" width="20px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg"/>
+
 <img align="left" alt="GDevelop" width="20px" style="padding-right:10px;" src="https://forum.gdevelop.io/uploads/default/original/1X/0344165e7f6a1db1adf720b2fdee28201a9079d3.png"/>
+
 <img align="left" alt="Unity" width="20px" style="padding-right:10px;" src="https://companieslogo.com/img/orig/U-ea48bc1d.png?t=1634728034"/>
+
 <img align="left" alt="Illustrator" width="20px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png" />
+
 <img align="left" alt="Photoshop" width="20px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png" />
+
 <img align="left" alt="Premiere Pro" width="20px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/2101px-Adobe_Premiere_Pro_CC_icon.svg.png"/>
+
 <img align="left" alt="Animate" width="20px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Adobe_Animate_CC_icon_%282020%29.svg/1200px-Adobe_Animate_CC_icon_%282020%29.svg.png"/>
 </p>
 
