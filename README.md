@@ -2,7 +2,9 @@
 # I'm Kasun Miuranga 😀
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Engineer;Game+Developer;Graphic+Designer)](https://git.io/typing-svg) <br>
-I'm a `Software Engineer` and also a hobbyist indie `Game Developer` from Sri Lanka. <br> I'm constantly striving to learn new things every day 😇
+I'm a `Software Engineer` and also a hobbyist indie `Game Developer` from Sri Lanka. <br> 
+
+I'm constantly striving to learn new things every day 😇
 <br>
 🔗 <a href='https://themiu.github.io/my-workfolio'> My workfolio </a> 
 <br>
@@ -15,7 +17,7 @@ Thank you for visiting my profile, and I look forward to connecting with you!
 
 ### 🤝 Let's connect
 <a href="https://www.linkedin.com/in/kasun-miuranga" target="_blank">
-    &nbsp &nbsp &nbsp &nbsp <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
 </a>
 
 ---
@@ -45,8 +47,8 @@ Thank you for visiting my profile, and I look forward to connecting with you!
     <img alt="Animate" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Adobe_Animate_CC_icon_%282020%29.svg/1200px-Adobe_Animate_CC_icon_%282020%29.svg.png"/>
 </div>
 
+---
 
-##
 ### 📈 Stats
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=themiu&locale=en&hide_title=false&layout=compact&card_width=900&langs_count=5&theme=gruvbox&hide_border=false" height="150" alt="languages graph"  />
